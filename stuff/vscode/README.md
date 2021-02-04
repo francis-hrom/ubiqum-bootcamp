@@ -1,0 +1,1 @@
+[Auto-refresh with Live Server](https://www.freecodecamp.org/news/vscode-live-server-auto-refresh-browser/).
