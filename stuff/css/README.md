@@ -11,5 +11,3 @@ Another [style guide](https://google.github.io/styleguide/htmlcssguide.html)
 [CSS-Tricks](https://css-tricks.com/)
 
 LIVE SPIKE [grid layout - mobile first - template](https://drive.google.com/file/d/1z63F3GWh43yZznONpA-Hm43RrqUMtmpX/view?usp=sharing) / [source code](https://github.com/manuelbarzi/ubiqum-bootcamp-202102/pull/32)
-
-[Learn Sass In 20 Minutes](https://www.youtube.com/watch?v=Zz6eOVaaelI&t=929s&ab_channel=DevEd)
