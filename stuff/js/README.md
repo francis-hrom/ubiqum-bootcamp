@@ -10,3 +10,5 @@ SPIKE [understanding iterators while and for (inspecting the code with the debug
 
 SPIKE [managing strings challenges](https://drive.google.com/file/d/1UDSd88aJN_e7AnOahXeSbCEMqKun6lgK/view?usp=sharing)
 
+[JS Hero](https://www.jshero.net/)
+
