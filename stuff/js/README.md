@@ -12,3 +12,12 @@ SPIKE [managing strings challenges](https://drive.google.com/file/d/1UDSd88aJN_e
 
 [JS Hero](https://www.jshero.net/)
 
+SPIKE [constructor functions and prototyping](https://drive.google.com/file/d/1uSfWKRMGHTE4JUjSWqQFbaGa0_28LZvV/view?usp=sharing)
+
+SPIKE [handling function inputs and outputs and testing](https://drive.google.com/file/d/1PSNC0A7UtucIc8eq6bSqa7SiAqxVR5Jx/view?usp=sharing)
+
+SPIKE [arrays, horroys and testing](https://drive.google.com/file/d/1caFANjD37wBnvHMH5JTsVOD3VNkC_7P3/view?usp=sharing)
+
+SPIKE [arrays, horroys and testing, separating in files](https://drive.google.com/file/d/1FR9sP_5rw0-Nq3DegR0p-ruN34gWMeFZ/view?usp=sharing)
+
+
