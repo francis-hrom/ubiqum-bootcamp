@@ -20,4 +20,6 @@ SPIKE [arrays, horroys and testing](https://drive.google.com/file/d/1caFANjD37wB
 
 SPIKE [arrays, horroys and testing, separating in files](https://drive.google.com/file/d/1FR9sP_5rw0-Nq3DegR0p-ruN34gWMeFZ/view?usp=sharing)
 
+REVIEW [review of strings, arrays and functions (with davide and puja)](https://drive.google.com/file/d/11LZUZWhaKNmMtQ4dJsnC5-zuM5lb9jvQ/view?usp=sharing)
+
 
