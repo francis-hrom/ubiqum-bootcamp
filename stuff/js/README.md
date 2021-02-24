@@ -22,5 +22,3 @@ SPIKE [arrays, horroys and testing, separating in files](https://drive.google.co
 
 REVIEW [review of strings, arrays and functions (with davide and puja)](https://drive.google.com/file/d/11LZUZWhaKNmMtQ4dJsnC5-zuM5lb9jvQ/view?usp=sharing)
 
-SPIKE [sync vs async in js, and ajax (fetch)](https://drive.google.com/file/d/15WWJkmJ3YNkvnA6l0HwJ21NEDD2GGwzA/view?usp=sharing)
-
