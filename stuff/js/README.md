@@ -22,3 +22,10 @@ SPIKE [arrays, horroys and testing, separating in files](https://drive.google.co
 
 REVIEW [review of strings, arrays and functions (with davide and puja)](https://drive.google.com/file/d/11LZUZWhaKNmMtQ4dJsnC5-zuM5lb9jvQ/view?usp=sharing)
 
+REVIEW [traverse objects with for-in and arrays with for-off](https://drive.google.com/file/d/1TDaB6b6JuabHyxMLoCGa5s0g-bF4youR/view?usp=sharing)
+
+REVIEW [dynamic property access in objects that map information](https://drive.google.com/file/d/11Pn_86fdZJcWWAPxDj3VEflP7IwXoYTj/view?usp=sharing)
+
+SPIKE [hoisting in js](https://drive.google.com/file/d/1Swck1mqZdRAN4uaviOuS7HF2721ZBnQj/view?usp=sharing)
+
+SPIKE [refactor code](https://drive.google.com/file/d/1jBP3Ho-SoEUBw-Ey3Oa3y0Stc8b03eyT/view?usp=sharing)
