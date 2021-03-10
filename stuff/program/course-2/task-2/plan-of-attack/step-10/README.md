@@ -1,5 +1,3 @@
-SPIKE [presentation frameworks, bootstrap, materialize, uikit...](https://drive.google.com/file/d/1c_vYc46ztCFLxOSAGAgF4U2CjYQO34hF/view?usp=sharing)
-
 REVIEW [extract values from checkboxes](https://drive.google.com/file/d/1Tak6IuW5fxE7qPwsGI34GUZAbQI8eceX/view?usp=sharing)
 
 REVIEW [array filter](https://drive.google.com/file/d/1XKlOkeoD4s5y8H-2FS3hzelj_JD4wBNh/view?usp=sharing)
